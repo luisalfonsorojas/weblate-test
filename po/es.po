@@ -20,3 +20,6 @@ msgstr ""
 #, c-format
 msgid "Hello, world!\n"
 msgstr ""
+
+msgid "Thank you for using Weblate."
+msgstr "Gracias por usar Weblate"
