@@ -34,4 +34,4 @@ msgid "Hollo Cesar."
 msgstr "Hola Cesar."
 
 msgid "Hollo Albert."
-msgstr "Hola traduccion de Weblate"
+msgstr "Hola Albert."
