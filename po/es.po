@@ -29,3 +29,9 @@ msgstr "Gracias por usar Weblate"
 
 msgid "This is an example."
 msgstr "Esto es un ejemplo"
+
+msgid "Hollo Cesar."
+msgstr "Hola Cesar."
+
+msgid "Hollo Albert."
+msgstr "Hola Albert."
