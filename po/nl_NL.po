@@ -19,6 +19,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 3.9.1\n"
 
+msgid "Hello, world!\n"
+msgstr "Hola Mundo"
+
+msgid "Thank you for using Weblate."
+msgstr "Gracias por usar Weblate"
+
+msgid "This is an example."
+msgstr "Esto es un ejemplo"
+
+msgid "Hollo Cesar."
+msgstr "Hola Cesar."
+
+msgid "Hollo Albert."
+msgstr "Hola Albert."
+
+#. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going
+msgctxt "Example"
+msgid "Example"
+msgstr "Ejemplo"
+
 #: budgetestimator/models.py:18 budgetestimator/models.py:29
 msgid "Enter only floats separated by commas."
 msgstr "Voer alleen geldbedragen in gescheiden door komma's."
